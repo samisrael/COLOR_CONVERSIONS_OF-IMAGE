@@ -70,7 +70,7 @@ Save the final modified image to your local directory.
 import cv2
 
 # Load an image from your local directory
-image = cv2.imread('/home/sam/Desktop/dipt/COLOR_CONVERSIONS_OF-IMAGE/images/sam.jpg')
+image = cv2.imread('/home/sam/Desktop/dipt/COLOR_CONVERSIONS_OF-IMAGE/images/sssam.jpg')
 
 # Display the original image
 cv2.imshow('Original Image', image)
@@ -186,33 +186,33 @@ cv2.imwrite('modified_image.jpg', image)
 
 ### i)Read and Display an Image
 
-![image](./images/1.png)
+![image](./images/ss1.png)
 
 ### ii)Draw Shapes and Add Text
 
-![image](./images/2.png)
+![image](./images/ss2.png)
 
 ### iii)Image Color Conversion
 
-![image](./images/3.png)
-![image](./images/4.png)
-![image](./images/5.png)
-![image](./images/6.png)
+![image](./images/ss3.png)
+![image](./images/ss4.png)
+![image](./images/ss5.png)
+![image](./images/ss6.png)
 
 ### iv)Access and Manipulate Image Pixels
-![image](./images/7.png)
+![image](./images/ss7.png)
 
 ### v)Image Resizing
-![image](./images/8.png)
+![image](./images/ss8.png)
 
 ### vi)Image Cropping
-![image](./images/9.png)
+![image](./images/ss9.png)
 
 ### vii)Image Flipping
-![image](./images/10.png)
+![image](./images/ss10.png)
 
 ### viii)Write and Save the Modified Image
-![image](./images/11.png)
+![image](./images/ss11.png)
 
 
 
